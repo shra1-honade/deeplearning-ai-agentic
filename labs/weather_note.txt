@@ -1,0 +1,4 @@
+Current Weather:
+Current: 79.9°F
+High: 89.6°F
+Low: 71.6°F
